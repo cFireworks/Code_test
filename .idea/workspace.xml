@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db26391c-4ce4-4a6c-9b0d-3f88bd144279" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKPeySdSW3UzT3NZSoHllJICaX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/3_工程实践项目/2020/软挑江山竞赛/初赛/dataPrepare/HWcode2020-TestData" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.DataCount">
+    <configuration name="DataCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ctrib.DataCount" />
+      <module name="Code_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ctrib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.template.strings.KMP" />
+      <module name="Code_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.template.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumProduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.vivo.NumProduction" />
+      <module name="Code_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOMTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.OOMTest" />
+      <module name="Code_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Sort" />
+      <module name="Code_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitNumsMinDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.vivo.SplitNumsMinDiff" />
+      <module name="Code_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OOMTest" />
+      <item itemvalue="Application.NumProduction" />
+      <item itemvalue="Application.SplitNumsMinDiff" />
+      <item itemvalue="Application.KMP" />
+      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.DataCount" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataCount" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.KMP" />
+        <item itemvalue="Application.SplitNumsMinDiff" />
+        <item itemvalue="Application.NumProduction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db26391c-4ce4-4a6c-9b0d-3f88bd144279" name="Default Changelist" comment="" />
+      <created>1582688411270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582688411270</updated>
+      <workItem from="1582688412892" duration="6575000" />
+      <workItem from="1583204336449" duration="255000" />
+      <workItem from="1583204987898" duration="18812000" />
+      <workItem from="1583982120910" duration="6521000" />
+      <workItem from="1583999856615" duration="2848000" />
+      <workItem from="1584207116308" duration="29000" />
+      <workItem from="1584251861501" duration="3085000" />
+      <workItem from="1584528618931" duration="3016000" />
+      <workItem from="1584692494916" duration="2629000" />
+      <workItem from="1584850874752" duration="20529000" />
+      <workItem from="1585193149088" duration="8413000" />
+      <workItem from="1585353167442" duration="12448000" />
+      <workItem from="1585630676797" duration="15875000" />
+      <workItem from="1586258855037" duration="6373000" />
+      <workItem from="1586308793501" duration="612000" />
+      <workItem from="1586344998332" duration="5795000" />
+      <workItem from="1586518947293" duration="3345000" />
+      <workItem from="1586603207977" duration="9119000" />
+      <workItem from="1586800591121" duration="49000" />
+      <workItem from="1586948899842" duration="7536000" />
+      <workItem from="1587036235418" duration="6222000" />
+      <workItem from="1587901156136" duration="8358000" />
+      <workItem from="1587921363026" duration="77000" />
+      <workItem from="1587984845386" duration="621000" />
+      <workItem from="1588223090700" duration="14000" />
+      <workItem from="1590463168566" duration="7608000" />
+      <workItem from="1590907703207" duration="4835000" />
+      <workItem from="1591280632694" duration="2049000" />
+      <workItem from="1591356185233" duration="623000" />
+      <workItem from="1591406718093" duration="23613000" />
+      <workItem from="1591717805972" duration="1410000" />
+      <workItem from="1591883109324" duration="1455000" />
+      <workItem from="1591923435804" duration="4967000" />
+      <workItem from="1591943185797" duration="39000" />
+      <workItem from="1592191525914" duration="4665000" />
+      <workItem from="1592235650894" duration="2186000" />
+      <workItem from="1592295598027" duration="2376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583986561410">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583986561410" />
+    <state x="-1206" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591280895827">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1206" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591280895827" />
+    <state x="-1180" y="280" key="FileChooserDialogImpl" timestamp="1586582897540">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1180" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586582897540" />
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1585668245384" />
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom" timestamp="1592200979325">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591517121123" />
+    <state width="1877" height="208" key="GridCell.Tab.0.center" timestamp="1592200979325">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
+    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
+    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591517121123" />
+    <state width="1877" height="208" key="GridCell.Tab.0.left" timestamp="1592200979325">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
+    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
+    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591517121123" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right" timestamp="1592200979325">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591517121123" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586613628188">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586613628188" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1585974149663" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586613628188">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586613628188" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1585974149653" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586613628188">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586613628188" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1585974149652" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586613628188">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1586613628188" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1585974149657" />
+    <state x="640" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1592325387413">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1280" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1587901159481" />
+    <state x="640" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1591943219343" />
+    <state x="640" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592325387413" />
+    <state x="-1625" y="181" key="new project wizard" timestamp="1585837279794">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1625" y="181" key="new project wizard/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1585837279794" />
+    <state x="-1653" y="246" key="run.anything.popup" timestamp="1590910777889">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1653" y="246" key="run.anything.popup/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1590910777889" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1591413380302">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1587038649734" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1591413380302" />
+  </component>
+</project>
