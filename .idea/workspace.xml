@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db26391c-4ce4-4a6c-9b0d-3f88bd144279" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/yuanfudao/MaxAward.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/yuanfudao/SimpleExpressionInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/yuanfudao/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jucdemo/BlockingQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ctrib/MYEnum$Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ctrib/MYEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code_test/com/company/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/bytedance/DictOrderKth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/bytedance/DictOrderKth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jucdemo/BlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jucdemo/BlockingQueueDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,15 +48,15 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/3_工程实践项目/2020/秒杀系统学习/mymiaosha" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Application.MaxAward">
-    <configuration name="DataCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ctrib.DataCount" />
+  <component name="RunManager" selected="Application.BlockingQueueDemo">
+    <configuration name="BlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jucdemo.BlockingQueueDemo" />
       <module name="Code_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.ctrib.*" />
+          <option name="PATTERN" value="com.jucdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.template.strings.KMP" />
+    <configuration name="DataCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ctrib.DataCount" />
       <module name="Code_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.template.strings.*" />
+          <option name="PATTERN" value="com.company.ctrib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,19 +125,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OOMTest" />
-      <item itemvalue="Application.KMP" />
       <item itemvalue="Application.Sort" />
       <item itemvalue="Application.DataCount" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.MaxAward" />
+      <item itemvalue="Application.BlockingQueueDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BlockingQueueDemo" />
         <item itemvalue="Application.MaxAward" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.DataCount" />
         <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.KMP" />
       </list>
     </recent_temporary>
   </component>
@@ -223,12 +213,24 @@
       <workItem from="1595471958492" duration="1412000" />
       <workItem from="1595475895362" duration="1206000" />
       <workItem from="1596254675541" duration="4916000" />
-      <workItem from="1596549502771" duration="756000" />
+      <workItem from="1596549502771" duration="2362000" />
     </task>
+    <task id="LOCAL-00001" summary="addAll">
+      <created>1596550288069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596550288069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="addAll" />
+    <option name="LAST_COMMIT_MESSAGE" value="addAll" />
   </component>
   <component name="WindowStateProjectService">
     <state x="518" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596282524755">
@@ -239,42 +241,51 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1206" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591280895827" />
+    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1596550285477">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1596550285477" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1594340509516">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1594340509516" />
-    <state width="1493" height="152" key="GridCell.Tab.0.bottom" timestamp="1596295781870">
+    <state width="1493" height="152" key="GridCell.Tab.0.bottom" timestamp="1596551931384">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596295781870" />
+    <state width="1493" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596551931384" />
     <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
     <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
     <state width="1877" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595473376934" />
-    <state width="1493" height="152" key="GridCell.Tab.0.center" timestamp="1596295781870">
+    <state width="1493" height="152" key="GridCell.Tab.0.center" timestamp="1596551931384">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596295781870" />
+    <state width="1493" height="152" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596551931384" />
     <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
     <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
     <state width="1877" height="206" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595473376934" />
-    <state width="1493" height="152" key="GridCell.Tab.0.left" timestamp="1596295781870">
+    <state width="1493" height="152" key="GridCell.Tab.0.left" timestamp="1596551931384">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596295781870" />
+    <state width="1493" height="152" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596551931384" />
     <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
     <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
     <state width="1877" height="206" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595473376934" />
-    <state width="1493" height="152" key="GridCell.Tab.0.right" timestamp="1596295781870">
+    <state width="1493" height="152" key="GridCell.Tab.0.right" timestamp="1596551931384">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596295781870" />
+    <state width="1493" height="152" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596551931384" />
     <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
     <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
     <state width="1877" height="206" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595473376934" />
-    <state x="461" y="167" key="SettingsEditor" timestamp="1595473239859">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="369" y="120" key="SettingsEditor" timestamp="1596550579034">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="369" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596550579034" />
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1595473239859" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1596550301803">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596550301803" />
     <state x="512" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1596549503270">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
