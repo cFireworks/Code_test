@@ -7,7 +7,7 @@ package com.company.bytedance;
  **/
 public class DictOrderKth {
 
-    private int getSteps(int n, int cur, int next){
+    private int getSteps(int n, long cur, long next){
         int steps = 0;
         while(cur <= n){
             steps += Math.min(n+1, next) - cur;
