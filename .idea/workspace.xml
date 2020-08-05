@@ -1,92 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db26391c-4ce4-4a6c-9b0d-3f88bd144279" name="Default Changelist" comment="ingnore">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nettydemo/DiscardServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nettydemo/TimeServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nettydemo/handler/DiscardServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nettydemo/handler/TimeServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="db26391c-4ce4-4a6c-9b0d-3f88bd144279" name="Default Changelist" comment="netty的丢弃服务器、时间服务器">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Code_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ArrayAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/BigDemical$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/BigDemical$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/BigDemical.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/MyHashMap$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/MyHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/OOMTest$OOMObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/OOMTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ReverseTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Tencent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/TreeAlgorithm$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/TreeAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/bytedance/DictOrderKth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ctrib/DataCount$Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ctrib/DataCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ctrib/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/GrassPlant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/JosephuseCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/NumProduction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/PhoneMadeNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/ScreenLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/SplitNumsMinDiff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/yuanfudao/MaxAward.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/yuanfudao/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/yuanfudao/SimpleExpressionInterpreter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/yuanfudao/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/jucdemo/BlockingQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/template/DP/beibao/BagProblemSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/template/strings/KMP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/task/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/task/Goods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code_test/task/Provider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ArrayAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ArrayAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BigDemical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/BigDemical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/OOMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/OOMTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ReverseTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ReverseTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Tencent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Tencent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TreeAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/TreeAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/bytedance/DictOrderKth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/bytedance/DictOrderKth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ctrib/DataCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ctrib/DataCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ctrib/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ctrib/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/pdd/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/pdd/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/pdd/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/pdd/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/pdd/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/pdd/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/tplink/SecondTurn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/tplink/SecondTurn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/GrassPlant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/GrassPlant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/JosephuseCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/JosephuseCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/NumProduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/NumProduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/PhoneMadeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/PhoneMadeNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/ScreenLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/ScreenLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/SplitNumsMinDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/SplitNumsMinDiff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/yuanfudao/MaxAward.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/yuanfudao/MaxAward.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/yuanfudao/SimpleExpressionInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/yuanfudao/SimpleExpressionInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/yuanfudao/input" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/yuanfudao/input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jucdemo/BlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jucdemo/BlockingQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/template/DP/beibao/BagProblemSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/template/DP/beibao/BagProblemSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/template/cache/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/template/cache/LRU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/template/strings/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/template/strings/KMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/template/tree/RecoverTree1028.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/template/tree/RecoverTree1028.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/Goods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/Provider.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +215,7 @@
       <workItem from="1596254675541" duration="4916000" />
       <workItem from="1596549502771" duration="2624000" />
       <workItem from="1596635844673" duration="569000" />
-      <workItem from="1596638245978" duration="2994000" />
+      <workItem from="1596638245978" duration="3673000" />
     </task>
     <task id="LOCAL-00001" summary="addAll">
       <created>1596550288069</created>
@@ -328,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596636049419</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="netty的丢弃服务器、时间服务器">
+      <created>1596641369354</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596641369354</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +262,8 @@
     <MESSAGE value="addAll" />
     <MESSAGE value="阻塞队列demo" />
     <MESSAGE value="ingnore" />
-    <option name="LAST_COMMIT_MESSAGE" value="ingnore" />
+    <MESSAGE value="netty的丢弃服务器、时间服务器" />
+    <option name="LAST_COMMIT_MESSAGE" value="netty的丢弃服务器、时间服务器" />
   </component>
   <component name="WindowStateProjectService">
     <state x="518" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596282524755">
@@ -357,10 +282,10 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1206" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591280895827" />
-    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1596641293752">
+    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1596641495854">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1596641293752" />
+    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1596641495854" />
     <state x="592" y="222" key="FileChooserDialogImpl" timestamp="1596636417589">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -403,10 +328,10 @@
     </state>
     <state x="369" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596550579034" />
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1595473239859" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1596636231047">
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1596641510305">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596636231047" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596641510305" />
     <state x="512" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1596635853591">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
