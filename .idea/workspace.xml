@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db26391c-4ce4-4a6c-9b0d-3f88bd144279" name="Default Changelist" comment="" />
+    <list default="true" id="db26391c-4ce4-4a6c-9b0d-3f88bd144279" name="Default Changelist" comment="ingnore">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nettydemo/DiscardServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nettydemo/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nettydemo/handler/DiscardServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nettydemo/handler/TimeServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Code_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ArrayAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/BigDemical$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/BigDemical$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/BigDemical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/MyHashMap$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/MyHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/OOMTest$OOMObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/OOMTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ReverseTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/Tencent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/TreeAlgorithm$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/TreeAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/bytedance/DictOrderKth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ctrib/DataCount$Month.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ctrib/DataCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/ctrib/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/GrassPlant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/JosephuseCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/NumProduction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/PhoneMadeNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/ScreenLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/Solution$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/vivo/SplitNumsMinDiff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/yuanfudao/MaxAward.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/yuanfudao/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/yuanfudao/SimpleExpressionInterpreter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/company/yuanfudao/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/jucdemo/BlockingQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/template/DP/beibao/BagProblemSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/com/template/strings/KMP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/task/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/task/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_test/task/Provider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ArrayAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ArrayAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BigDemical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/BigDemical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/OOMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/OOMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ReverseTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ReverseTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Tencent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Tencent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/TreeAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/TreeAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/bytedance/DictOrderKth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/bytedance/DictOrderKth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ctrib/DataCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ctrib/DataCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ctrib/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/ctrib/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/pdd/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/pdd/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/pdd/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/pdd/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/pdd/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/pdd/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/tplink/SecondTurn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/tplink/SecondTurn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/GrassPlant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/GrassPlant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/JosephuseCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/JosephuseCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/NumProduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/NumProduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/PhoneMadeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/PhoneMadeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/ScreenLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/ScreenLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/vivo/SplitNumsMinDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/vivo/SplitNumsMinDiff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/yuanfudao/MaxAward.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/yuanfudao/MaxAward.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/yuanfudao/SimpleExpressionInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/yuanfudao/SimpleExpressionInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/yuanfudao/input" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/yuanfudao/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jucdemo/BlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jucdemo/BlockingQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/template/DP/beibao/BagProblemSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/template/DP/beibao/BagProblemSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/template/cache/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/template/cache/LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/template/strings/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/template/strings/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/template/tree/RecoverTree1028.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/template/tree/RecoverTree1028.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/Provider.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,11 +129,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/3_工程实践项目/2020/秒杀系统学习/mymiaosha" />
+    <property name="last_opened_file_path" value="D:/3_工程实践项目/2020/chatserver" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Application.BlockingQueueDemo">
+  <component name="RunManager" selected="Application.TimeServer">
     <configuration name="BlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jucdemo.BlockingQueueDemo" />
       <module name="Code_test" />
@@ -61,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ctrib.DataCount" />
+    <configuration name="DiscardServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nettydemo.DiscardServer" />
       <module name="Code_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.ctrib.*" />
+          <option name="PATTERN" value="com.nettydemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Sort" />
+    <configuration name="TimeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nettydemo.TimeServer" />
       <module name="Code_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.nettydemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +208,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OOMTest" />
-      <item itemvalue="Application.Sort" />
-      <item itemvalue="Application.DataCount" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.MaxAward" />
       <item itemvalue="Application.BlockingQueueDemo" />
+      <item itemvalue="Application.DiscardServer" />
+      <item itemvalue="Application.TimeServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimeServer" />
+        <item itemvalue="Application.DiscardServer" />
         <item itemvalue="Application.BlockingQueueDemo" />
         <item itemvalue="Application.MaxAward" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.DataCount" />
-        <item itemvalue="Application.Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +297,8 @@
       <workItem from="1595475895362" duration="1206000" />
       <workItem from="1596254675541" duration="4916000" />
       <workItem from="1596549502771" duration="2624000" />
+      <workItem from="1596635844673" duration="569000" />
+      <workItem from="1596638245978" duration="2994000" />
     </task>
     <task id="LOCAL-00001" summary="addAll">
       <created>1596550288069</created>
@@ -226,7 +314,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596552145756</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ingnore">
+      <created>1596635972557</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596635972557</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ingnore">
+      <created>1596636049419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596636049419</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,72 +337,86 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="addAll" />
     <MESSAGE value="阻塞队列demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="阻塞队列demo" />
+    <MESSAGE value="ingnore" />
+    <option name="LAST_COMMIT_MESSAGE" value="ingnore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="518" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596282524755">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="518" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1596282524755" />
+    <state x="958" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1596640360752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="958" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1596640360752" />
+    <state x="773" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1596638491995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="773" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1596638491995" />
     <state x="-1206" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591280895827">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1206" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591280895827" />
-    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1596552142130">
+    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1596641293752">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1596552142130" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1594340509516">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1596641293752" />
+    <state x="592" y="222" key="FileChooserDialogImpl" timestamp="1596636417589">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="592" y="222" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596636417589" />
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1594340509516" />
-    <state width="1493" height="152" key="GridCell.Tab.0.bottom" timestamp="1596552165077">
+    <state width="724" height="153" key="GridCell.Tab.0.bottom" timestamp="1596641125008">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596552165077" />
+    <state width="724" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596641125008" />
     <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
     <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
     <state width="1877" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595473376934" />
-    <state width="1493" height="152" key="GridCell.Tab.0.center" timestamp="1596552165077">
+    <state width="724" height="153" key="GridCell.Tab.0.center" timestamp="1596641125007">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596552165077" />
+    <state width="724" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596641125007" />
     <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
     <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
     <state width="1877" height="206" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595473376934" />
-    <state width="1493" height="152" key="GridCell.Tab.0.left" timestamp="1596552165076">
+    <state width="724" height="153" key="GridCell.Tab.0.left" timestamp="1596641125007">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596552165076" />
+    <state width="724" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596641125007" />
     <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
     <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
     <state width="1877" height="206" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595473376934" />
-    <state width="1493" height="152" key="GridCell.Tab.0.right" timestamp="1596552165077">
+    <state width="724" height="153" key="GridCell.Tab.0.right" timestamp="1596641125008">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596552165077" />
+    <state width="724" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596641125008" />
     <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591530560050" />
     <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592200979325" />
     <state width="1877" height="206" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595473376934" />
+    <state x="477" y="133" key="MultipleFileMergeDialog" timestamp="1596636210795">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="133" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1596636210795" />
     <state x="369" y="120" key="SettingsEditor" timestamp="1596550579034">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="369" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596550579034" />
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1595473239859" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1596552150202">
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1596636231047">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596552150202" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596636231047" />
     <state x="512" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1596635853591">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="512" y="277" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1596635853591" />
     <state x="640" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1591943219343" />
     <state x="640" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1596254677278" />
-    <state x="468" y="209" key="git4idea.merge.GitPullDialog" timestamp="1596635891277">
+    <state x="468" y="209" key="git4idea.merge.GitPullDialog" timestamp="1596636178954">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="468" y="209" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1596635891277" />
+    <state x="468" y="209" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1596636178954" />
     <state x="-1653" y="246" key="run.anything.popup" timestamp="1590910777889">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>

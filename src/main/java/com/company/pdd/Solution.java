@@ -25,7 +25,9 @@ public class Solution {
     }
     public static void convert(int[] list){
         for(int i=0; i<3; ++i){
-            if(list[i*2] == 1 || list[i*2+1] == 1)
+            if(list[i*2] == 1 || list[i*2+1] == 1){
+
+            }
         }
     }
 }
