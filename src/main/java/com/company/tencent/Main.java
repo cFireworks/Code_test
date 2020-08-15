@@ -1,4 +1,4 @@
-package com.company;
+package com.company.tencent;
 
 import java.util.*;
 
@@ -7,7 +7,7 @@ import java.util.*;
  * @author: cfireworks
  * @create: 2020-04-26 19:59
  **/
-public class Tencent {
+public class Main {
     private static double calculate(List<int[]> A, List<int[]> B){
         double min = Double.MAX_VALUE;
         for(int[] a : A){

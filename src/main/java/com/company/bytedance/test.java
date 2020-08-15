@@ -1,4 +1,4 @@
-package com.company;
+package com.company.bytedance;
 
 import java.util.*;
 
@@ -51,14 +51,41 @@ public class test {
         }
         return len;
     }
+    static List<Integer> list = new ArrayList<>();
 
-    public static void main(String[] args) {
-        int[] nums = {1,-1,5,-2,3};
-        int target = 3;
-        int[] nums2 = {-2,-1,2,1};
-        int target2 = 1;
-        int res = longestSum(nums, target);
-        int res2 = longestSum(nums2, target2);
-        System.out.println(res);
+    public static void worker(){
+        synchronized (list){
+            while(true){
+                list.add(0);
+                list.remove(list.size()-1);
+            }
+        }
+    }
+    static volatile int[] a = new int[3];
+
+    public static void te(int num) throws InterruptedException {
+        a[0] = 1;
+        System.out.println(a[0]);
+    }
+
+    public static void lcs(String str1, String str2){
+        char[] s1 = str1.toCharArray();
+        char[] s2 = str2.toCharArray();
+        int[][] dp = new int[s1.length+1][s2.length+1];
+        int max = 0;
+        for(int i=0; i<s1.length; ++i){
+            for(int j=0; j<s2.length; ++j){
+                if(s1[i] == s2[j]){
+                    dp[i+1][j+1] = dp[i][j] + 1;
+                    max = Math.max(dp[i+1][j+1], max);
+                }
+            }
+        }
+        System.out.println(max);
+    }
+
+    public static void main(String[] args) throws InterruptedException {
+        lcs("abcdef", "bcd");
+        // System.out.println(num);
     }
 }
